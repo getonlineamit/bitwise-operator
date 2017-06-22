@@ -19,3 +19,4 @@
 - https://miguelmota.com/blog/bitwise-operators-in-javascript/
 - https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators
 - https://chrisrng.svbtle.com/bitwise-operators-in-javascript
+- https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators
