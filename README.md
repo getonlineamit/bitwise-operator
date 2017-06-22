@@ -13,6 +13,9 @@
 
 - We can convert colors from RGA to Hex format.
 - Variables swap without using third variable (hint - using xor)(redundant with ES6 swap [a, b] = [b, a]).
-- Example section of [https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators].
 - Check if number is even or odd  `Even Number => [(n & 1) === 0]`
+
+**More resources**
 - https://miguelmota.com/blog/bitwise-operators-in-javascript/
+- https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators
+- https://chrisrng.svbtle.com/bitwise-operators-in-javascript
